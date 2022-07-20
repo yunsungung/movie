@@ -1,5 +1,8 @@
 # nuxt-movie-app
 
+## page
+- [nuxt-movie-app](https://jude-nuxt-movie-app.herokuapp.com/)
+
 ## Build Setup
 
 ```bash
